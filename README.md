@@ -1,3 +1,3 @@
-![](https://github.com/dfilitto/mongoDB/blob/main/Apresenta%C3%A7%C3%A3o.jpg)
+![](https://github.com/dfilitto/Unity6DuckGame/blob/main/Duck%20Game%20-%20Capa%20Do%20Curso.jpg?raw=true)
 # DUCK GAME
 
