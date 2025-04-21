@@ -1,5 +1,5 @@
 # DUCK GAME
-![https://www.udemy.com/course/draft/6538101/?referralCode=C83560EDA67BC84FF0C5](https://github.com/dfilitto/Unity6DuckGame/blob/main/Duck%20Game%20-%20Capa%20Do%20Curso.jpg?raw=true)
+[![DUCK GAME](https://github.com/dfilitto/Unity6DuckGame/blob/main/Duck%20Game%20-%20Capa%20Do%20Curso.jpg?raw=true)](https://www.youtube.com/playlist?list=PLfvOpw8k80WrXz1YgV8MMAvASEmjs7pye)
 
 Já pensou em criar seu próprio jogo de plataforma do zero e compartilhá-lo com o mundo?
 Neste curso, você vai aprender a desenvolver um jogo 2D completo na Unity 6, utilizando os principais recursos da engine e aplicando técnicas modernas de desenvolvimento de games.
