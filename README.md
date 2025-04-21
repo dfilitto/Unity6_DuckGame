@@ -1,8 +1,9 @@
-![](https://github.com/dfilitto/Unity6DuckGame/blob/main/Duck%20Game%20-%20Capa%20Do%20Curso.jpg?raw=true)
 # DUCK GAME
+![https://www.udemy.com/course/draft/6538101/?referralCode=C83560EDA67BC84FF0C5](https://github.com/dfilitto/Unity6DuckGame/blob/main/Duck%20Game%20-%20Capa%20Do%20Curso.jpg?raw=true)
 
-Já imaginou criar seu próprio jogo de plataforma do zero e compartilhá-lo com o mundo? Neste curso, você terá a oportunidade de desenvolver um jogo 2D completo na Unity 6, utilizando os principais recursos da engine e explorando técnicas modernas de desenvolvimento de jogos.
+Já pensou em criar seu próprio jogo de plataforma do zero e compartilhá-lo com o mundo?
+Neste curso, você vai aprender a desenvolver um jogo 2D completo na Unity 6, utilizando os principais recursos da engine e aplicando técnicas modernas de desenvolvimento de games.
 
-Durante o curso, você criará um jogo envolvente que acompanha a jornada de um patinho corajoso em busca de sua família. Para isso, ele precisará atravessar diversas fases, superar obstáculos desafiadores e encontrar a chave que abre a porta para avançar ao próximo nível. Cada fase apresentará novos desafios e mecânicas, exigindo estratégia e habilidade do jogador para completar a aventura com sucesso.
+Ao longo das aulas, você dará vida a um jogo cativante que acompanha a jornada de um patinho corajoso em busca de sua família. Para reencontrá-la, ele precisará atravessar diferentes fases, superar obstáculos desafiadores e encontrar as chaves que desbloqueiam o caminho para os próximos níveis. Cada fase trará novas mecânicas e desafios, exigindo raciocínio, estratégia e habilidade do jogador.
 
-Acesse a nossa <a href="https://www.youtube.com/playlist?list=PLfvOpw8k80WrXz1YgV8MMAvASEmjs7pye"> playlist no YouTube </a> para acompanhar o desenvolvimento deste projeto ou adquira a versão premium de nosso curso em nosso <a href="https://www.udemy.com/course/draft/6538101/?referralCode=C83560EDA67BC84FF0C5"> perfil da Udemy</a>. 
+Você pode acompanhar o passo a passo deste projeto na nossa <a href="https://www.youtube.com/playlist?list=PLfvOpw8k80WrXz1YgV8MMAvASEmjs7pye"> playlist gratuita no YouTube </a> ou acessar a versão premium do <a href="https://www.udemy.com/course/draft/6538101/?referralCode=C83560EDA67BC84FF0C5"> curso na Udemy </a>, com conteúdos extras e suporte exclusivo.
